@@ -1,0 +1,3 @@
+Desafio para treinar lógica e arquivos
+
+Se passar o comando "node ex3 html --complete" deve criar os files do array files
